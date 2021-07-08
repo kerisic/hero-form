@@ -15,6 +15,7 @@ import { HeroFormComponent } from './hero-form/hero-form.component';
   imports: [
     BrowserModule,
     CommonModule,
+    FormsModule,
     AppRoutingModule
   ],
   providers: [],
